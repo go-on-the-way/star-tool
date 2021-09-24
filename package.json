@@ -1,9 +1,9 @@
 {
-  "name": "star-tool",
+  "name": "star-tools",
   "version": "1.0.0",
   "description": "node 效率工具",
   "bin": {
-    "star-tool": "./index.js"
+    "star-tools": "./index.js"
   },
   "scripts": {},
   "repository": {

@@ -12,7 +12,7 @@ program.on('--help', () => {
     console.log('  Examples:')
     console.log()
     console.log(chalk.gray('    # create a new vue file at current directory'))
-    console.log('    $ star-tool c-sfc my-vue')
+    console.log('    $ star-tools c-sfc my-vue')
 })
 
 function help () {
